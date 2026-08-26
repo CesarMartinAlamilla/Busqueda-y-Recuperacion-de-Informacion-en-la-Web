@@ -1,7 +1,7 @@
 # Busqueda-y-Recuperacion-de-Informacion-en-la-Web
 Proyecto de materia optativa
 
-## Equipo: **Los más 3D**
+## Equipo: **Los más WEB**
 
 Integrantes:
   - **Martín Alamilla Cesar Adrian** -  [LinkedIn](https://www.linkedin.com/in/cesar-m-alamilla/) | [Github](https://github.com/CesarMartinAlamilla)
