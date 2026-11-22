@@ -1,0 +1,22 @@
+# Diccionario de sinónimos para expansión semántica en español
+automóvil, coche, vehículo, auto
+automóviles, coches, vehículos, autos
+computadora, ordenador, pc
+computadoras, ordenadores
+celular, teléfono, movil
+celulares, teléfonos, moviles
+estudiante, alumno
+estudiantes, alumnos
+profesor, docente, maestro
+profesores, docentes, maestros
+buscar, localizar, encontrar, recuperar
+búsqueda, recuperación
+información, datos
+noticia, artículo, novedad
+noticias, artículos, novedades
+energía, electricidad, potencia
+web, sitio, portal, pagina
+webs, sitios, portales, paginas
+internet, red
+investigación, estudio, indagación
+biblioteca, repositorio, catálogo
