@@ -1,0 +1,20 @@
+# Documentación local de planeación
+docs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Pruebas y caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Entorno y sistema
+.env
+.DS_Store
