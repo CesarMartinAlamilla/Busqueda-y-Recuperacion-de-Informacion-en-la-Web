@@ -1,0 +1,210 @@
+# =====================================================================
+# Diccionario Semántico de Sinónimos en Español para Expansión en Consulta
+# Core: buscador_es | Mínimo 30 grupos temáticos
+# =====================================================================
+
+# 1. Automotriz y Transporte
+automóvil, automovil, coche, vehículo, vehiculo, auto, carro, transporte
+automóviles, automoviles, coches, vehículos, vehiculos, autos, carros
+
+# 2. Cómputo y Hardware
+computadora, ordenador, pc, computador, equipo de computo
+computadoras, ordenadores, computadores, pcs
+
+# 3. Dispositivos Móviles
+celular, teléfono, telefono, móvil, movil, smartphone, terminal móvil, terminal movil
+celulares, teléfonos, telefonos, móviles, moviles, smartphones
+
+# 4. Estudiantes y Aprendizaje
+estudiante, alumno, colegial, aprendiz, educando
+estudiantes, alumnos, aprendices
+
+# 5. Docencia y Profesorado
+profesor, docente, maestro, educador, catedrático, catedratico, instructor
+profesores, docentes, maestros, educadores, catedráticos, catedraticos, instructores
+
+# 6. Instituciones Educativas
+universidad, facultad, instituto, escuela, academia, colegio
+universidades, facultades, institutos, escuelas, academias
+
+# 7. Búsqueda y Recuperación (Verbos)
+buscar, localizar, encontrar, rastrear, recuperar, consultar
+
+# 8. Procesos de Información (Sustantivos)
+búsqueda, busqueda, recuperación, recuperacion, rastreo, consulta, exploración, exploracion, indagación, indagacion
+
+# 9. Datos e Información
+información, informacion, datos, registros, contenido, conocimiento, insumos
+
+# 10. Publicaciones y Medios
+noticia, artículo, articulo, novedad, nota, publicación, publicacion, reporte
+noticias, artículos, articulos, novedades, notas, publicaciones, reportes
+
+# 11. Energía y Sostenibilidad
+energía, energia, electricidad, potencia, corriente, suministro eléctrico, suministro electrico
+energías, energias, fuentes de energía, fuentes de energia, recursos energéticos, recursos energeticos
+
+# 12. Sitios Web y Portales
+web, sitio, portal, página, pagina, website
+webs, sitios, portales, páginas, paginas, websites
+
+# 13. Conectividad Global
+internet, red, ciberespacio, nube
+
+# 14. Ciencia e Investigación
+investigación, investigacion, estudio, indagación, indagacion, análisis, analisis, proyecto científico, proyecto cientifico, investigación científica, investigacion cientifica
+investigaciones, estudios, análisis, analisis, proyectos científicos, proyectos cientificos
+
+# 15. Repositorios y Acervos
+biblioteca, repositorio, catálogo, catalogo, archivo, hemeroteca, fondo documental
+bibliotecas, repositorios, catálogos, catalogos, archivos
+
+# 16. Inteligencia Artificial y Machine Learning
+inteligencia artificial, ia, ai, aprendizaje automático, aprendizaje automatico, machine learning, deep learning
+
+# 17. Software y Aplicaciones
+software, programa, aplicación, aplicacion, app, aplicativo, sistema
+programas, aplicaciones, apps, aplicativos, sistemas
+
+# 18. Programación y Desarrollo
+código, codigo, script, desarrollo, programación, programacion, algoritmo
+códigos, codigos, scripts, desarrollos, algoritmos
+
+# 19. Almacenamiento y Bases de Datos
+base de datos, bd, database, repositorio de datos, almacén de datos, almacen de datos
+bases de datos, repositorios de datos
+
+# 20. Seguridad Informática
+seguridad, ciberseguridad, protección, proteccion, firewall, defensa digital
+
+# 21. Documentos y Archivos
+documento, archivo, fichero, texto, escrito, informe
+documentos, archivos, ficheros, textos, informes
+
+# 22. Multimedia y Grabaciones
+video, grabación, grabacion, audiovisual, multimedia, clip
+videos, grabaciones, audiovisuales
+
+# 23. Medio Ambiente y Ecología
+ambiente, medio ambiente, ecología, ecologia, ecosistema, sostenibilidad, entorno natural
+
+# 24. Eficiencia y Rendimiento
+rendimiento, eficiencia, desempeño, desempeno, velocidad, productividad, efectividad
+
+# 25. Usuarios y Clientes
+usuario, cliente, consumidor, internauta, visitante, cibernauta
+usuarios, clientes, consumidores, internautas, visitantes
+
+# 26. Empresas y Organizaciones
+empresa, compañía, compania, corporación, corporacion, negocio, organización, organizacion, firma
+empresas, compañías, companias, corporaciones, negocios, organizaciones
+
+# 27. Salud y Medicina
+salud, medicina, sanidad, bienestar, atención médica, atencion medica
+
+# 28. Robótica y Mecatrónica
+robótica, robotica, automatización, automatizacion, autómata, automata, mecatrónica, mecatronica, cibernética, cibernetica
+
+# 29. Redes y Comunicaciones
+red informática, red informatica, red de datos, conectividad, telecomunicaciones, enlace
+
+# 30. Innovación y Tecnología
+tecnología, tecnologia, innovación, innovacion, técnica, tecnica, modernización, modernizacion, vanguardia
+tecnologías, tecnologias, innovaciones, técnicas, tecnicas
+
+# 31. Economía y Finanzas
+economía, economia, finanzas, hacienda, macroeconomía, macroeconomia, actividad económica, actividad economica
+dinero, capital, divisas, fondos, presupuesto, recursos financieros
+inversión, inversion, financiamiento, financiación, financiacion, aportación de capital, aportacion de capital
+
+# 32. Banca y Comercio
+banco financiero, entidad bancaria, institución financiera, institucion financiera, caja de ahorro
+comercio, mercadeo, intercambio comercial, compraventa, negocio comercial
+
+# 33. Política y Gobierno
+gobierno, administración pública, administracion publica, estado, poder ejecutivo, gabinete
+política, politica, gestión pública, gestion publica, gobernanza, asuntos públicos, asuntos publicos
+ley, legislación, legislacion, normativa, reglamento, decreto, estatuto
+
+# 34. Derecho y Justicia
+justicia, derecho, jurisprudencia, legalidad, marco jurídico, marco juridico
+juez, magistrado, tribunal, juzgado, corte
+delito, infracción, infraccion, crimen, ilícito, ilicito, falta legal
+
+# 35. Energía Renovable y Eléctrica
+energía solar, energia solar, energía fotovoltaica, energia fotovoltaica, paneles solares, radiación solar, radiacion solar
+energía eólica, energia eolica, aerogeneradores, turbinas eólicas, turbinas eolicas, viento energético, viento energetico
+apagón, apagon, corte eléctrico, corte electrico, interrupción eléctrica, interrupcion electrica, falla de suministro
+
+# 36. Clima y Meteorología
+clima, meteorología, meteorologia, tiempo atmosférico, tiempo atmosferico, condiciones climáticas, condiciones climaticas
+huracán, huracan, ciclón, ciclon, tormenta tropical, tifón, tifon, tempestad
+sequía, sequia, aridez, escasez de lluvia, estiaje
+
+# 37. Agricultura y Alimentación
+agricultura, cultivo, labranza, actividad agrícola, actividad agricola, agronomía, agronomia
+alimento, comida, nutrición, nutricion, víveres, viveres, sustento, producto alimenticio
+cosecha, recolección, recoleccion, siembra, producción agrícola, produccion agricola
+
+# 38. Arquitectura y Construcción
+arquitectura, diseño arquitectónico, diseno arquitectonico, urbanismo, edificación, edificacion
+construcción, construccion, obra civil, infraestructura, edificaciones, ingeniería civil, ingenieria civil
+vivienda, casa, hogar, residencia, domicilio, inmueble
+
+# 39. Turismo y Viajes
+turismo, viaje, excursión, excursion, travesía, travesia, recorrido turístico, recorrido turistico
+turista, viajero, excursionista, visitante turístico, visitante turistico
+hotel, alojamiento, hospedaje, posada, complejo turístico, complejo turistico
+
+# 40. Cultura, Arte y Patrimonio
+cultura, patrimonio cultural, acervo cultural, tradición, tradicion, identidad cultural
+arte, expresión artística, expresion artistica, bellas artes, obra artística, obra artistica
+museo, galería, galeria, exposición, exposicion, sala de exhibición, sala de exhibicion, pinacoteca
+
+# 41. Música y Artes Escénicas
+música, musica, melodía, melodia, composición musical, composicion musical, pieza musical, sonido musical
+concierto, recital, presentación musical, presentacion musical, espectáculo musical, espectaculo musical
+teatro, dramaturgia, artes escénicas, artes escenicas, puesta en escena
+
+# 42. Literatura y Lenguaje
+libro, obra literaria, ejemplar, volumen, publicación impresa, publicacion impresa
+escritor, autor, literato, novelista, ensayista
+idioma, lengua, lenguaje, habla, dialecto
+
+# 43. Deportes y Actividad Física
+deporte, actividad física, actividad fisica, disciplina deportiva, ejercicio físico, ejercicio fisico
+atleta, deportista, competidor, jugador
+torneo, campeonato, competencia, certamen deportivo, liga
+
+# 44. Medicina Clínica y Farmacología
+médico, medico, doctor, facultativo, especialista médico, especialista medico, clínico, clinico
+enfermedad, padecimiento, afección, afeccion, patología, patologia, dolencia
+medicamento, fármaco, farmaco, medicina, remedio, tratamiento farmacológico, tratamiento farmacologico
+
+# 45. Psicología y Salud Mental
+psicología, psicologia, salud mental, bienestar emocional, conducta humana
+estrés, estres, ansiedad, tensión emocional, tension emocional, agotamiento mental
+terapia, psicoterapia, tratamiento psicológico, tratamiento psicologico, acompañamiento clínico, acompanamiento clinico
+
+# 46. Astronomía y Espacio
+astronomía, astronomia, astrofísica, astrofisica, cosmología, cosmologia, ciencias espaciales
+planeta, astro, cuerpo celeste, mundo exterior
+nave espacial, cohete, sonda espacial, satélite artificial, satelite artificial
+
+# 47. Matemáticas y Estadística
+matemáticas, matematicas, cálculo, calculo, álgebra, algebra, análisis matemático, analisis matematico
+estadística, estadistica, probabilidad, análisis estadístico, analisis estadistico, muestreo, métrica, metrica
+gráfica, grafica, diagrama, visualización de datos, visualizacion de datos, esquema gráfico, esquema grafico
+
+# 48. Historia y Arqueología
+historia, crónica histórica, cronica historica, pasado, devenir histórico, devenir historico, historiografía, historiografia
+arqueología, arqueologia, yacimiento arqueológico, yacimiento arqueologico, zona arqueológica, zona arqueologica, vestigio, ruinas
+
+# 49. Telecomunicaciones y Redes Móviles
+telefonía, telefonia, telecomunicación, telecomunicacion, radiocomunicación, radiocomunicacion, transmisión de señales, transmision de senales
+wifi, red inalámbrica, red inalambrica, conexión inalámbrica, conexion inalambrica, internet inalámbrico, internet inalambrico
+ancho de banda, velocidad de conexión, velocidad de conexion, tasa de transferencia, latencia
+
+# 50. Logística y Cadena de Suministro
+logística, logistica, cadena de suministro, distribución, distribucion, abastecimiento, cadena logística, cadena logistica
+envío, envio, despacho, transporte de mercancía, transporte de mercancia, flete, entrega
