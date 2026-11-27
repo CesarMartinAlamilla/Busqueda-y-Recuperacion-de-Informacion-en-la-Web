@@ -1,4 +1,7 @@
 """Pipeline de ingesta end-to-end: rastreo HTML (WebSpider) e indexación en Solr (SolrIndexer)."""
+# python -m crawler.pipeline --seed https://es.wikipedia.org/wiki/Inteligencia_artificial --seed https://es.wikipedia.org/wiki/Aprendizaje_autom%C3%A1tico --max-pages 20 --max-depth 2 --batch-size 10
+#Publique en el main por error, solo se actualizaron estos dos comentarios.
+#python -m crawler.pipeline --seed https://es.wikipedia.org/wiki/Inteligencia_artificial --max-pages 10 --max-depth 2
 
 import argparse
 from dataclasses import dataclass, field
