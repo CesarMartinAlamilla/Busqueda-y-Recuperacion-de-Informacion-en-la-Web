@@ -1,3 +1,10 @@
 adr.md
 contexto.md
 cronograma_de_desarrollo_sistema_de_busqueda_y_recuperacion.md
+
+# Documentación local
+docs/
+
+# Python cache
+__pycache__/
+*.py[cod]
