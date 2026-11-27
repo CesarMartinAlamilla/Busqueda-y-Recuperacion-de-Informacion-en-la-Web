@@ -18,3 +18,6 @@ htmlcov/
 # Entorno y sistema
 .env
 .DS_Store
+
+#Cont ADR
+adr.md
